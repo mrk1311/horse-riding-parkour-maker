@@ -6,7 +6,7 @@ Demo live at: https://mrk1311.github.io/horse-riding-parkour-maker/
 TODO:
 1. Saving .gif of the animation.
 2. Sharing and other community features.
-3. Textures for obstacles
+3. Textures for obstacles and changing white dot to a horse
 4. Different obstacles options
 
 
